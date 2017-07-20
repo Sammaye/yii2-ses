@@ -21,7 +21,7 @@
   },
   autoload: {
     psr-4: {
-      sammaye\yii2ses\: ""
+      sammaye\yii2ses: ""
     }
   }
 }
