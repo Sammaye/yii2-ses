@@ -3,7 +3,6 @@
 namespace sammaye\yii2ses;
 
 use yii\mail\BaseMessage;
-use common\components\ses\libs\SimpleEmailServiceMessage;
 
 /**
  * Message implements a message class based on Amazon Simple Email Service
